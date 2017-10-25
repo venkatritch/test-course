@@ -128,3 +128,17 @@ test_error()
 
 success_msg("Good work!")
 ```
+
+---
+## <<<New Exercise>>>
+
+```yaml
+type: VideoExercise
+key: 2ce51d8f8e
+lang: r
+xp: 50
+skills: 1
+video_link: player.vimeo.com/video/154783078
+```
+
+
